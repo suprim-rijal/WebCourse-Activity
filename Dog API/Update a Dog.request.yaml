@@ -1,0 +1,15 @@
+$kind: http-request
+name: Update a Dog
+description: ""
+url: http://localhost:4000/dogs/5
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"Buddy\",\r
+
+    \  \"weight\": 14\r
+
+    }"
+order: 4348164459934400

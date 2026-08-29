@@ -1,0 +1,6 @@
+$kind: http-request
+name: Get Dog by ID
+description: ""
+url: http://localhost:4000/dogs/3
+method: GET
+order: 1787996590968

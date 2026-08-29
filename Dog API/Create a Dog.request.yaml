@@ -1,0 +1,14 @@
+$kind: http-request
+description: ""
+url: http://localhost:4000/dogs
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"name\": \"Buddy\",\r
+
+    \  \"weight\": 20\r
+
+    }"
+order: 3233177475846245
