@@ -1,0 +1,6 @@
+$kind: http-request
+name: Get Car by ID
+description: ""
+url: http://localhost:4000/cars/2
+method: GET
+order: 3912067162092338
