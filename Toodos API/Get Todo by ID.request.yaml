@@ -1,0 +1,6 @@
+$kind: http-request
+name: Get Todo by ID
+description: ""
+url: http://localhost:4000/todos/1
+method: GET
+order: 4250963536482031
